@@ -1,0 +1,152 @@
+.redsocial {
+    color: #481bc5; /* Color azul de Facebook */
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+  }
+
+
+
+.labio{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.Home{
+position: absolute;
+width: 122px;
+height: 52px;
+left: 130px;
+top: 130px;
+
+font: 150% sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 44px;
+color: #6e0e50;
+}
+h1{
+position: relative;
+width: 20px;
+height: 30px;
+left: 115px;
+top: 50px;
+
+display: flex;
+font: 150% sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 44px;
+color: #000000;
+}
+.chisme{
+    margin-left: 110px;
+    margin-top: 80px;
+    color: white;
+    width: 190px;
+    height: 40px;
+
+    font: 150% sans-serif;
+    font-style: normal;
+    background-color: #e88aca; 
+    display: flex; 
+    align-items:  center;
+    justify-content: center;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 12px; 
+}
+.nombre{
+    margin-left: 100px;
+    margin-top: 60px;
+
+    font: 150% sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+}
+.correo{
+    margin-left: 100px;
+    margin-top: 10px;
+
+    color: #7d7777;
+    font: 150% sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+}
+.home2{
+    margin-left: 50px;
+    margin-top: -610px;
+
+    color: #000000;
+    font: 150% sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+  
+}
+.contenedor2{
+    width: 550px;
+    height: 380px;
+    margin-left: 350px;
+    border-radius: 10px;
+
+    background-color: rgb(220, 213, 213);
+ 
+}
+.cuadro1{
+    width: 450px;
+    height: 20px;
+    margin-left: 50px;
+    border-radius: 25px;
+    background-color: rgb(196, 175, 175);
+}
+ .cuadro2{
+        width: 450px;
+        height: 40px;
+        margin-left: 0px;
+        border-radius: 25px;
+    
+        background-color: rgb(196, 175, 175);
+
+}
+.contenedor3{
+    width: 550px;
+    height: 380px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: rgb(220, 213, 213);
+
+}
+
+
+
+
+  
+  .content {
+    width: 320px;
+    height: 800px;
+    margin-left: 590px;
+    background-color: #f79edc;
+    border-radius: 10px;
+    margin-top: -460px;
+   
+  }
+
+  .chisme1
+  {
+  
+  }
+  
+
+
+
+
+
+
